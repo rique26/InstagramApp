@@ -3,7 +3,7 @@ Descrição do Projeto InstagramApp
 
 Em Desenvolvimento (70%)
 
-Este projeto está sendo desenvolvido durante o curso Treinamento Android Express. O aplicativo é uma réplica simplificada do Instagram, com funcionalidades como:
+Este projeto está sendo desenvolvido. O aplicativo é uma réplica simplificada do Instagram, com funcionalidades como:
 
 - Login
 - Cadastro
