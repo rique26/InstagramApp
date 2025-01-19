@@ -1,3 +1,13 @@
+
 Descrição do Projeto InstagramApp
 
-Este projeto está sendo desenvolvido durante o curso Treinamento Android Express. O aplicativo é uma réplica simplificada do Instagram, com funcionalidades de login, cadastro, upload de fotos, feed de publicações, pesquisa de usuários, e muito mais.
+Em Desenvolvimento (70%)
+
+Este projeto está sendo desenvolvido durante o curso Treinamento Android Express. O aplicativo é uma réplica simplificada do Instagram, com funcionalidades como:
+
+- Login
+- Cadastro
+- Upload de fotos
+- Feed de publicações
+- Pesquisa de usuários
+- Entre outras.
